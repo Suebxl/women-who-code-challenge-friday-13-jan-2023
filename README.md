@@ -1,8 +1,7 @@
-Happy Friday!! :tada:
+Happy Friday!! :tada: 
+frontend-friday-challenge  :tada:
 
-frontend-friday  :tada:
-
-:loudspeaker: Here is a new Coding Challenge. 
+<img width="295" alt="profile card women who code friday challenge" src="https://user-images.githubusercontent.com/73802863/212442907-40dc9ea5-be32-4bf1-83db-3283ffcfc178.png">
 
 
 :point_right: Figma Link: 
