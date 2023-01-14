@@ -31,9 +31,9 @@ header {
 }
 
 .menu {
-  position: fixed;
-  top: 30px;
-  right: 315px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
   width: 4px;
   height: 16px;
 }
